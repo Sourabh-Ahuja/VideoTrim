@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MitronAssignment</string>
+    <string name="select_video">Select Video</string>
+    <string name="add_audio">Add Audio</string>
+    <string name="trim_video">Trim Video</string>
+</resources>
