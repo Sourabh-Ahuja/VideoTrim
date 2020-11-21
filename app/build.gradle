@@ -36,7 +36,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'com.github.a914-gowtham:Android-video-trimmer:1.4.0'
-    implementation 'org.florescu.android.rangeseekbar:rangeseekbar-library:0.3.0'
     implementation 'com.google.android.exoplayer:exoplayer:2.10.0'
     implementation 'com.writingminds:FFmpegAndroid:0.3.2'
 }
