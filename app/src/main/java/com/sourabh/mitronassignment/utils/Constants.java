@@ -18,7 +18,7 @@ public class Constants {
 
     public final static String PATH = "path";
     public final static String VIDEO_URI = "video_uri";
-    public final static String OUTPUT_FILE_NAME = "merge_with_audio.mp4";
+    public final static String OUTPUT_FILE_NAME = "merge_with_audio";
     public final static String TRIM_VIDEO_FILE_NAME = "trim_video.mp4";
 
     // UPDATED!
